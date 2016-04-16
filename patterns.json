@@ -1,0 +1,91 @@
+{
+    "patterns": [
+                 {
+                 "identifier" : "us",
+                 "region-bounding-boxes": [[-125.0011, 24.9493, -66.9326, 49.5904]],
+                 "ISO2" : "US",
+                 "variants": [
+                              {
+                              "svg-image": "pttrn_us",
+                              "svg-guide": "pttrn_us_atoms",
+                              "atom-trail-color": "#4db5d9",
+                              "background-color": "#0f4e65"
+                              }
+                              ]
+                 },
+                 {
+                 "identifier" : "india",
+                 "region-bounding-boxes": [[68.0323, 6.7471, 97.4030, 36.2617]],
+                 "ISO2" : "IN",
+                 "variants": [
+                              {
+                              "svg-image": "pttrn_india",
+                              "svg-guide": "pttrn_india_atoms",
+                              "atom-trail-color": "#37b38b",
+                              "background-color": "#1b5d48"
+                              }
+                              ]
+                 },
+                 {
+                 "identifier" : "china",
+                 "region-bounding-boxes": [[73.5577, 15.7754, 134.7736, 53.5606]],
+                 "ISO2" : "CN",
+                 "variants": [
+                              {
+                              "svg-image": "pttrn_china",
+                              "svg-guide": "pttrn_china_atoms",
+                              "atom-trail-color": "#ea4444",
+                              "background-color": "#880000"
+                              }
+                              ]
+                 },
+                 {
+                 "identifier" : "taiwan",
+                 "region-bounding-boxes": [[118.2141, 21.8966, 122.0075, 26.3920]],
+                 "ISO2" : "TW",
+                 "variants": [
+                              {
+                              "svg-image": "pttrn_china",
+                              "svg-guide": "pttrn_china_atoms",
+                              "atom-trail-color": "#ea4444",
+                              "background-color": "#880000"
+                              }
+                              ]
+                 },
+                 {
+                 "identifier": "global",
+                 "variants": [
+                              {
+                              "svg-image": "pttrn_rex01_#254325",
+                              "svg-guide": "pttrn_rex01_atoms_#4C9A4E",
+                              "atom-trail-color": "#4C9A4E",
+                              "background-color": "#254325"
+                              },
+                              {
+                              "svg-image": "pttrn_rex02_#63101d",
+                              "svg-guide": "pttrn_rex02_atoms_#BE3009",
+                              "atom-trail-color": "#BE3009",
+                              "background-color": "#63101d"
+                              },
+                              {
+                              "svg-image": "pttrn_rex03_#103b49",
+                              "svg-guide": "pttrn_rex03_atoms_#12939A",
+                              "atom-trail-color": "#12939A",
+                              "background-color": "#103b49"
+                              },
+                              {
+                              "svg-image": "pttrn_rex04_#1c0f58",
+                              "svg-guide": "pttrn_rex04_atoms_#694FD6",
+                              "atom-trail-color": "#694FD6",
+                              "background-color": "#1c0f58"
+                              },
+                              {
+                              "svg-image": "pttrn_rex05_#3f054c",
+                              "svg-guide": "pttrn_rex05_atoms_#A13ECD",
+                              "atom-trail-color": "#A13ECD",
+                              "background-color": "#3f054c"
+                              }
+                              ]
+                 }
+                 ]
+}
